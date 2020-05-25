@@ -12,7 +12,7 @@ People's opinion of sentiment of the seven sentences varied much (*as seen in Fi
 
 <img src="images/opinion.PNG" style="zoom:35%;" />
 
-​                                                            *Figure 1 - People's opinion on sentiments* 
+​                                              *Figure 1 - People's opinion on sentiments* 
 
 
 #### Results
