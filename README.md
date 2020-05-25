@@ -8,7 +8,8 @@ This experiment considered basic off-the-shelf modules from the mentioned three 
 
 People's opinion of sentiment of the seven sentences varied much (*as seen in Fig.1 below*) , pointing the ambiguity of the sentences chosen
 
-![](images/sentences.PNG)
+<img src="images/sentences.png" style="zoom:35%;" /> <br>
+                                        
 
 <img src="images/opinion.png" style="zoom:35%;" />
                                          *Figure 1 - People's opinion on sentiments* 
