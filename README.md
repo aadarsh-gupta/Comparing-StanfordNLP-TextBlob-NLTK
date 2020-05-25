@@ -11,8 +11,7 @@ People's opinion of sentiment of the seven sentences varied much (*as seen in Fi
 ![](images/sentences.PNG)
 
 <img src="images/opinion.PNG" style="zoom:35%;" />
-
-​                                              *Figure 1 - People's opinion on sentiments* 
+                                         *Figure 1 - People's opinion on sentiments* 
 
 
 #### Results
@@ -22,8 +21,7 @@ Given the complexity in Natural Language Processing in terms of ambiguity, we ob
 **This indicates better performance from StanfordCoreNLP module with closest match to people's opinion being the favorable outcome.**
 
 <img src="images/final_score.PNG" style="zoom:35%;" />
-
-​                          *Figure 2 - Match % for sentiment results from each package with people's opinions* 
+                          *Figure 2 - Match % for sentiment results from each package with people's opinions* 
 
 
 
