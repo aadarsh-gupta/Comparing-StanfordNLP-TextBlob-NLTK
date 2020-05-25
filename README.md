@@ -38,9 +38,9 @@ The comparison was made between basic off-the-shelf modules with default pre-tra
 
 #### Contributors
 
-[Aadarsh Gupta](https://www.linkedin.com/in/darsh20/) - gupta528@umn.edu
-[Anirudh Srikant](https://www.linkedin.com/in/anirudh-srikant/) - srika028@umn.edu
-[Arnav Sivaram](https://www.linkedin.com/in/arnav-sivaram/) - sivar031@umn.edu
-[Karthik Ravishankar](https://www.linkedin.com/in/karthikrc1/) - ravis038@umn.edu
-[Mainak Roy](https://www.linkedin.com/in/mainak-roy/)  - roy00083@umn.edu
-[Sameeksha Aithal](https://www.linkedin.com/in/sameeksha-aithal/) - aitha010@umn.edu
+[Aadarsh Gupta](https://www.linkedin.com/in/darsh20/) - gupta528@umn.edu <br>
+[Anirudh Srikant](https://www.linkedin.com/in/anirudh-srikant/) - srika028@umn.edu <br>
+[Arnav Sivaram](https://www.linkedin.com/in/arnav-sivaram/) - sivar031@umn.edu <br>
+[Karthik Ravishankar](https://www.linkedin.com/in/karthikrc1/) - ravis038@umn.edu <br>
+[Mainak Roy](https://www.linkedin.com/in/mainak-roy/)  - roy00083@umn.edu <br>
+[Sameeksha Aithal](https://www.linkedin.com/in/sameeksha-aithal/) - aitha010@umn.edu <br>
